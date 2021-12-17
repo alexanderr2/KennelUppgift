@@ -1,0 +1,17 @@
+C:\Users\maarr\source\repos\UppgiftKennel\UppgiftKennel\obj\Debug\net5.0\UppgiftKennel.csproj.AssemblyReference.cache
+C:\Users\maarr\source\repos\UppgiftKennel\UppgiftKennel\obj\Debug\net5.0\UppgiftKennel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maarr\source\repos\UppgiftKennel\UppgiftKennel\obj\Debug\net5.0\UppgiftKennel.AssemblyInfoInputs.cache
+C:\Users\maarr\source\repos\UppgiftKennel\UppgiftKennel\obj\Debug\net5.0\UppgiftKennel.AssemblyInfo.cs
+C:\Users\maarr\source\repos\UppgiftKennel\UppgiftKennel\obj\Debug\net5.0\UppgiftKennel.csproj.CoreCompileInputs.cache
+C:\Users\maarr\source\repos\UppgiftKennel\UppgiftKennel\bin\Debug\net5.0\UppgiftKennel.exe
+C:\Users\maarr\source\repos\UppgiftKennel\UppgiftKennel\bin\Debug\net5.0\UppgiftKennel.deps.json
+C:\Users\maarr\source\repos\UppgiftKennel\UppgiftKennel\bin\Debug\net5.0\UppgiftKennel.runtimeconfig.json
+C:\Users\maarr\source\repos\UppgiftKennel\UppgiftKennel\bin\Debug\net5.0\UppgiftKennel.runtimeconfig.dev.json
+C:\Users\maarr\source\repos\UppgiftKennel\UppgiftKennel\bin\Debug\net5.0\UppgiftKennel.dll
+C:\Users\maarr\source\repos\UppgiftKennel\UppgiftKennel\bin\Debug\net5.0\ref\UppgiftKennel.dll
+C:\Users\maarr\source\repos\UppgiftKennel\UppgiftKennel\bin\Debug\net5.0\UppgiftKennel.pdb
+C:\Users\maarr\source\repos\UppgiftKennel\UppgiftKennel\bin\Debug\net5.0\Autofac.dll
+C:\Users\maarr\source\repos\UppgiftKennel\UppgiftKennel\obj\Debug\net5.0\UppgiftKennel.dll
+C:\Users\maarr\source\repos\UppgiftKennel\UppgiftKennel\obj\Debug\net5.0\ref\UppgiftKennel.dll
+C:\Users\maarr\source\repos\UppgiftKennel\UppgiftKennel\obj\Debug\net5.0\UppgiftKennel.pdb
+C:\Users\maarr\source\repos\UppgiftKennel\UppgiftKennel\obj\Debug\net5.0\UppgiftKennel.genruntimeconfig.cache

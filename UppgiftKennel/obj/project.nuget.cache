@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3aOTme19GjWHbD4w39vis8FmHWyVi1zhWr+LJXn9bdWD7+3hpg4BgPmFcM50sVlveYwTi6buAKLUzN7bik18Vw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maarr\\source\\repos\\UppgiftKennel\\UppgiftKennel\\UppgiftKennel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maarr\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\maarr\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
